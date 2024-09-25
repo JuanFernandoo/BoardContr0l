@@ -1,0 +1,6 @@
+projectKey=BoardCtrl
+serverUrl=http://localhost:9000
+serverVersion=10.6.0.92116
+dashboardUrl=http://localhost:9000/dashboard?id=BoardCtrl
+ceTaskId=b09c4b2e-ce94-48ab-b9bb-56803a8a8661
+ceTaskUrl=http://localhost:9000/api/ce/task?id=b09c4b2e-ce94-48ab-b9bb-56803a8a8661
